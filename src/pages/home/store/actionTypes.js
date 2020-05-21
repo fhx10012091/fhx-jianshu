@@ -1,0 +1,7 @@
+export const GET_LUNBO = 'home/get_lunbo'
+export const PUT_LUNBO = 'home/put_lunbo'
+export const GET_HOME = 'home/get_home'
+export const PUT_HOME = 'home/put_home'
+export const GET_MORE = 'home/get_more'
+export const PUT_MORE = 'home/put_more'
+export const BACK_SHOW = 'home/back_show'
